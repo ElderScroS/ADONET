@@ -1,0 +1,11 @@
+C:\Users\Niku_ac46\source\repos\WindowsForms3\WindowsForms3\bin\Debug\WindowsForms3.exe.config
+C:\Users\Niku_ac46\source\repos\WindowsForms3\WindowsForms3\bin\Debug\WindowsForms3.exe
+C:\Users\Niku_ac46\source\repos\WindowsForms3\WindowsForms3\bin\Debug\WindowsForms3.pdb
+C:\Users\Niku_ac46\source\repos\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.csproj.AssemblyReference.cache
+C:\Users\Niku_ac46\source\repos\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Niku_ac46\source\repos\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.Form1.resources
+C:\Users\Niku_ac46\source\repos\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.Properties.Resources.resources
+C:\Users\Niku_ac46\source\repos\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.csproj.GenerateResource.cache
+C:\Users\Niku_ac46\source\repos\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.csproj.CoreCompileInputs.cache
+C:\Users\Niku_ac46\source\repos\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.exe
+C:\Users\Niku_ac46\source\repos\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.pdb

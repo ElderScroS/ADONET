@@ -1,0 +1,11 @@
+C:\Users\Niku_ac46\source\repos\WindowsFormsAppADo2\WindowsFormsAppADo2\bin\Debug\WindowsFormsAppADo2.exe.config
+C:\Users\Niku_ac46\source\repos\WindowsFormsAppADo2\WindowsFormsAppADo2\bin\Debug\WindowsFormsAppADo2.exe
+C:\Users\Niku_ac46\source\repos\WindowsFormsAppADo2\WindowsFormsAppADo2\bin\Debug\WindowsFormsAppADo2.pdb
+C:\Users\Niku_ac46\source\repos\WindowsFormsAppADo2\WindowsFormsAppADo2\obj\Debug\WindowsFormsAppADo2.csproj.AssemblyReference.cache
+C:\Users\Niku_ac46\source\repos\WindowsFormsAppADo2\WindowsFormsAppADo2\obj\Debug\WindowsFormsAppADo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Niku_ac46\source\repos\WindowsFormsAppADo2\WindowsFormsAppADo2\obj\Debug\WindowsFormsAppADo2.Form1.resources
+C:\Users\Niku_ac46\source\repos\WindowsFormsAppADo2\WindowsFormsAppADo2\obj\Debug\WindowsFormsAppADo2.Properties.Resources.resources
+C:\Users\Niku_ac46\source\repos\WindowsFormsAppADo2\WindowsFormsAppADo2\obj\Debug\WindowsFormsAppADo2.csproj.GenerateResource.cache
+C:\Users\Niku_ac46\source\repos\WindowsFormsAppADo2\WindowsFormsAppADo2\obj\Debug\WindowsFormsAppADo2.csproj.CoreCompileInputs.cache
+C:\Users\Niku_ac46\source\repos\WindowsFormsAppADo2\WindowsFormsAppADo2\obj\Debug\WindowsFormsAppADo2.exe
+C:\Users\Niku_ac46\source\repos\WindowsFormsAppADo2\WindowsFormsAppADo2\obj\Debug\WindowsFormsAppADo2.pdb

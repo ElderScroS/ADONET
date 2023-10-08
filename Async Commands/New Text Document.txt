@@ -1,0 +1,9 @@
+CREATE TABLE Students
+(
+ [ID] int IDENTITY(1, 1) PRIMARY KEY,
+ [Name] nvarchar(150) NOT NULL,
+ [Surname] nvarchar(150) NOT NULL,
+ [Age] int NOT NULL
+
+ CHECK([Age] > 5 AND [Age] < 150)
+);
